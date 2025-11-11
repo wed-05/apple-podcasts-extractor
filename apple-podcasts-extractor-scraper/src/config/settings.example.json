@@ -1,0 +1,4 @@
+{
+    "base_url": "https://itunes.apple.com/search?term=",
+    "output_file": "output.json"
+}
