@@ -1,0 +1,17 @@
+[
+  {
+    "podcastName": "Ngobrol Sore Semaunya",
+    "artistName": "CXO Media",
+    "categories": [
+      { "id": "6473748294", "name": "Personal Journals" },
+      { "id": "6473748311", "name": "Society & Culture" }
+    ],
+    "description": "Selamat datang di Ngobrol Sore Semaunya, menyajikan obrolan tak terduga...",
+    "releaseDate": "2020-08-06",
+    "episodeNumber": 1,
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts122/v4/81/69/75/816975be-0af1-8bdd-44f9-18aa5bd67703/mza_2306394790357257423.jpg",
+    "episodeUrl": "https://podcasts.apple.com/us/podcast/ngobrol-sore-semaunya/id1526729635",
+    "feedUrl": "https://anchor.fm/s/29279ba0/podcast/rss",
+    "userRating": { "value": 5, "ratingCount": 2 }
+  }
+]
