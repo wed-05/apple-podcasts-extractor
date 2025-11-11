@@ -1,0 +1,17 @@
+{
+  "podcasts": [
+    {
+      "artistName": "CXO Media",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts122/v4/81/69/75/816975be-0af1-8bdd-44f9-18aa5bd67703/mza_2306394790357257423.jpg/320x320bb.webp",
+      "categories": [
+        { "id": "6473748294", "name": "Personal Journals", "url": "https://podcasts.apple.com/us/grouping/personal-journals/194147" },
+        { "id": "6473764237", "name": "Podcasts", "url": "https://podcasts.apple.com/us/grouping/podcasts/33" }
+      ],
+      "description": "Selamat datang di Ngobrol Sore Semaunya, part of CXO Media.",
+      "feedUrl": "https://anchor.fm/s/29279ba0/podcast/rss",
+      "id": "1526729635",
+      "name": "Ngobrol Sore Semaunya",
+      "url": "https://podcasts.apple.com/us/podcast/ngobrol-sore-semaunya/id1526729635"
+    }
+  ]
+}
